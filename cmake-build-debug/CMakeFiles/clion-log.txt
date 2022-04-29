@@ -1,0 +1,13 @@
+/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/daria/workflows/projects/newpr
+CMake Error at CMakeLists.txt:5 (include):
+  include could not find load file:
+
+    cmake/HunterGate.cmake
+
+
+CMake Error at CMakeLists.txt:7 (HunterGate):
+  Unknown CMake command "HunterGate".
+
+
+-- Configuring incomplete, errors occurred!
+See also "/home/daria/workflows/projects/newpr/cmake-build-debug/CMakeFiles/CMakeOutput.log".
